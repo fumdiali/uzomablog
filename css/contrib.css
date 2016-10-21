@@ -9,5 +9,6 @@ section {
 
 
 .thumb {
-	border-radius: 580px;
+	border-radius: 80px;
 }
+a:hover{text-decoration: none}
