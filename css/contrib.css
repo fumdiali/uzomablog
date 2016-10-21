@@ -1,0 +1,13 @@
+section {
+	display: inline-block;
+	width: 150px;
+	height: 75px;
+	margin: 65px;
+	/*border: 1px solid #777777;*/
+	
+}
+
+
+.thumb {
+	border-radius: 580px;
+}
